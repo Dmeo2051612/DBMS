@@ -52,7 +52,7 @@ Xử lý Số & Ngày tháng: Sử dụng DATEDIFF, DATEADD, GETDATE() để tí
 Clone repository:
 
 Bash
-git clone <repository_url>
+git clone <https://github.com/Dmeo2051612/DBMS.git>
 Thiết lập Cơ Sở Dữ Liệu:
 
 Mở SSMS (SQL Server Management Studio).
