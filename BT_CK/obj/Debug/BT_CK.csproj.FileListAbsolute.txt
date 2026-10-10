@@ -1,0 +1,112 @@
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\bin\Debug\BT_CK.exe.config
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\bin\Debug\BT_CK.exe
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\bin\Debug\BT_CK.pdb
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.exe
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.pdb
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.exe.config
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_3.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_4.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5a.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5b.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5c.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5d.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_5e.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_3.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_4.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_5.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_7_6.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_6.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_6_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_6_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_6_3.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_6_4.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8_3.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8_4.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_8_5.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9_3.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9_4.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_9_5.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_1.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_1a.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_1b.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_1c.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2_a.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2b.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2c.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2d.resources
+C:\Users\Admin\OneDrive\Desktop\OOP\C#\BT_CK\obj\Debug\BT_CK.Bai_10_2e.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\bin\Debug\BT_CK.exe.config
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\bin\Debug\BT_CK.exe
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\bin\Debug\BT_CK.pdb
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.csproj.AssemblyReference.cache
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.exe.config
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_1a.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_1b.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_1c.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2b.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2c.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2d.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2e.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_10_2_a.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_3.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_4.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5a.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5b.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5c.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5d.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_5e.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_6.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_6_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_6_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_6_3.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_6_4.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_3.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_4.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_5.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_7_6.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8_3.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8_4.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_8_5.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9_1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9_2.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9_3.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9_4.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Bai_9_5.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Form1.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.Properties.Resources.resources
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.csproj.GenerateResource.cache
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.csproj.CoreCompileInputs.cache
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.exe
+D:\UTE\Hệ quản trị CSDL\BT_CK\BT_CK\obj\Debug\BT_CK.pdb

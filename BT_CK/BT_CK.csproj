@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6E49EB2-036B-41B8-9121-168C18C6D76C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BT_CK</RootNamespace>
+    <AssemblyName>BT_CK</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bai_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1.Designer.cs">
+      <DependentUpon>Bai_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10.Designer.cs">
+      <DependentUpon>Bai_10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_1.Designer.cs">
+      <DependentUpon>Bai_10_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_1a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_1a.Designer.cs">
+      <DependentUpon>Bai_10_1a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_1b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_1b.Designer.cs">
+      <DependentUpon>Bai_10_1b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_1c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_1c.Designer.cs">
+      <DependentUpon>Bai_10_1c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2.Designer.cs">
+      <DependentUpon>Bai_10_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2b.Designer.cs">
+      <DependentUpon>Bai_10_2b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2c.Designer.cs">
+      <DependentUpon>Bai_10_2c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2d.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2d.Designer.cs">
+      <DependentUpon>Bai_10_2d.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2e.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2e.Designer.cs">
+      <DependentUpon>Bai_10_2e.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_10_2_a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_10_2_a.Designer.cs">
+      <DependentUpon>Bai_10_2_a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2.Designer.cs">
+      <DependentUpon>Bai_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3.Designer.cs">
+      <DependentUpon>Bai_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4.Designer.cs">
+      <DependentUpon>Bai_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5.Designer.cs">
+      <DependentUpon>Bai_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5a.Designer.cs">
+      <DependentUpon>Bai_5a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5b.Designer.cs">
+      <DependentUpon>Bai_5b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5c.Designer.cs">
+      <DependentUpon>Bai_5c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5d.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5d.Designer.cs">
+      <DependentUpon>Bai_5d.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5e.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5e.Designer.cs">
+      <DependentUpon>Bai_5e.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_6.Designer.cs">
+      <DependentUpon>Bai_6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_6_1.Designer.cs">
+      <DependentUpon>Bai_6_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_6_2.Designer.cs">
+      <DependentUpon>Bai_6_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_6_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_6_3.Designer.cs">
+      <DependentUpon>Bai_6_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_6_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_6_4.Designer.cs">
+      <DependentUpon>Bai_6_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7.Designer.cs">
+      <DependentUpon>Bai_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_1.Designer.cs">
+      <DependentUpon>Bai_7_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_2.Designer.cs">
+      <DependentUpon>Bai_7_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_3.Designer.cs">
+      <DependentUpon>Bai_7_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_4.Designer.cs">
+      <DependentUpon>Bai_7_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_5.Designer.cs">
+      <DependentUpon>Bai_7_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_7_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_7_6.Designer.cs">
+      <DependentUpon>Bai_7_6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8.Designer.cs">
+      <DependentUpon>Bai_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8_1.Designer.cs">
+      <DependentUpon>Bai_8_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8_2.Designer.cs">
+      <DependentUpon>Bai_8_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8_3.Designer.cs">
+      <DependentUpon>Bai_8_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8_4.Designer.cs">
+      <DependentUpon>Bai_8_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_8_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_8_5.Designer.cs">
+      <DependentUpon>Bai_8_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9.Designer.cs">
+      <DependentUpon>Bai_9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9_1.Designer.cs">
+      <DependentUpon>Bai_9_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9_2.Designer.cs">
+      <DependentUpon>Bai_9_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9_3.Designer.cs">
+      <DependentUpon>Bai_9_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9_4.Designer.cs">
+      <DependentUpon>Bai_9_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_9_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_9_5.Designer.cs">
+      <DependentUpon>Bai_9_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bai_1.resx">
+      <DependentUpon>Bai_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10.resx">
+      <DependentUpon>Bai_10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_1.resx">
+      <DependentUpon>Bai_10_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_1a.resx">
+      <DependentUpon>Bai_10_1a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_1b.resx">
+      <DependentUpon>Bai_10_1b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_1c.resx">
+      <DependentUpon>Bai_10_1c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2.resx">
+      <DependentUpon>Bai_10_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2b.resx">
+      <DependentUpon>Bai_10_2b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2c.resx">
+      <DependentUpon>Bai_10_2c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2d.resx">
+      <DependentUpon>Bai_10_2d.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2e.resx">
+      <DependentUpon>Bai_10_2e.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_10_2_a.resx">
+      <DependentUpon>Bai_10_2_a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2.resx">
+      <DependentUpon>Bai_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3.resx">
+      <DependentUpon>Bai_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4.resx">
+      <DependentUpon>Bai_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5.resx">
+      <DependentUpon>Bai_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5a.resx">
+      <DependentUpon>Bai_5a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5b.resx">
+      <DependentUpon>Bai_5b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5c.resx">
+      <DependentUpon>Bai_5c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5d.resx">
+      <DependentUpon>Bai_5d.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5e.resx">
+      <DependentUpon>Bai_5e.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_6.resx">
+      <DependentUpon>Bai_6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_6_1.resx">
+      <DependentUpon>Bai_6_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_6_2.resx">
+      <DependentUpon>Bai_6_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_6_3.resx">
+      <DependentUpon>Bai_6_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_6_4.resx">
+      <DependentUpon>Bai_6_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7.resx">
+      <DependentUpon>Bai_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_1.resx">
+      <DependentUpon>Bai_7_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_2.resx">
+      <DependentUpon>Bai_7_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_3.resx">
+      <DependentUpon>Bai_7_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_4.resx">
+      <DependentUpon>Bai_7_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_5.resx">
+      <DependentUpon>Bai_7_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_7_6.resx">
+      <DependentUpon>Bai_7_6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8.resx">
+      <DependentUpon>Bai_8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8_1.resx">
+      <DependentUpon>Bai_8_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8_2.resx">
+      <DependentUpon>Bai_8_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8_3.resx">
+      <DependentUpon>Bai_8_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8_4.resx">
+      <DependentUpon>Bai_8_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_8_5.resx">
+      <DependentUpon>Bai_8_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9.resx">
+      <DependentUpon>Bai_9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9_1.resx">
+      <DependentUpon>Bai_9_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9_2.resx">
+      <DependentUpon>Bai_9_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9_3.resx">
+      <DependentUpon>Bai_9_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9_4.resx">
+      <DependentUpon>Bai_9_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_9_5.resx">
+      <DependentUpon>Bai_9_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
